@@ -6,6 +6,7 @@ namespace pz_10
     {
         public static void Main(string[] args)
         {
+            ZooService zooService = new ZooService();
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -32,7 +33,7 @@ namespace pz_10
             app.MapControllers();
 
             app.Run();
-            ZooService zooService = new ZooService();
+            
         }
     }
 }

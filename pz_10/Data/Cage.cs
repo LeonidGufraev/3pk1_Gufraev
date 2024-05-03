@@ -2,7 +2,7 @@
 {
     public class Cage
     {
-        public int Number { get; set; }
+        public int Id { get; set; }
 
         public int Beast { get; set; }
         public int Quantity { get; set; }

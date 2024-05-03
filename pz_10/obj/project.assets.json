@@ -1366,23 +1366,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gufra\\.nuget\\packages\\": {},
+    "D:\\Users\\gufraev.le1656\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gufra\\source\\repos\\pz_10\\pz_10.csproj",
+      "projectUniqueName": "D:\\Users\\gufraev.le1656\\Downloads\\pz_10\\pz_10.csproj",
       "projectName": "pz_10",
-      "projectPath": "C:\\Users\\gufra\\source\\repos\\pz_10\\pz_10.csproj",
-      "packagesPath": "C:\\Users\\gufra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gufra\\source\\repos\\pz_10\\obj\\",
+      "projectPath": "D:\\Users\\gufraev.le1656\\Downloads\\pz_10\\pz_10.csproj",
+      "packagesPath": "D:\\Users\\gufraev.le1656\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\gufraev.le1656\\Downloads\\pz_10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gufra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Users\\gufraev.le1656\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1442,7 +1442,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

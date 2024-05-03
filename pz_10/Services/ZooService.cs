@@ -9,5 +9,12 @@ namespace pz_10.Services
         {
             _context = new ZooContext();
         }
+        internal void Add(object source, int num)
+        {
+            if(num== 0)
+            {
+                source = new Animal();
+            }
+        }
     }
 }

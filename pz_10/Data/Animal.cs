@@ -2,8 +2,18 @@
 {
     public class Animal
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public int Quantity { get; set; }
+        public Animal()
+        {
+            
+        }
+        public Animal(int id, string name, int quantity)
+        {
+            Id = id;
+            Name = name;
+            Quantity = quantity;
+        }
     }
 }
