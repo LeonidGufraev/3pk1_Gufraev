@@ -1,0 +1,29 @@
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.exe
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.deps.json
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.runtimeconfig.json
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.dll
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.pdb
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.AssemblyInfoInputs.cache
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.AssemblyInfo.cs
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.csproj.CoreCompileInputs.cache
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.dll
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\refint\consoleProject.dll
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.pdb
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.genruntimeconfig.cache
+D:\Users\gufraev.le1656\Source\Repos\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\ref\consoleProject.dll
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.exe
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.deps.json
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.runtimeconfig.json
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.dll
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\bin\Debug\net7.0\consoleProject.pdb
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.csproj.AssemblyReference.cache
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.AssemblyInfoInputs.cache
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.AssemblyInfo.cs
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.csproj.CoreCompileInputs.cache
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.dll
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\refint\consoleProject.dll
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.pdb
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\consoleProject.genruntimeconfig.cache
+D:\gufra\05-LeonidGufraev (1)\05-LeonidGufraev\consoleProject\obj\Debug\net7.0\ref\consoleProject.dll
